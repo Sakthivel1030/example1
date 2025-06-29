@@ -1,1 +1,20 @@
-repostory created
+create->insert->add->commit->push
+
+git clone https://github.com/Sakthivel1030/example1.git
+it is used to connect with the repostiory in the github
+
+cd filename
+it is used to connect with the file in the github
+
+git status
+it is used to check the status of the file in the github
+
+if we add a new file in vs then now we need to add that file in the github we need to used
+git add text2.txt
+after it will come to stageing area
+
+git commit -m "text2.txt file added"
+it is used to admit the changes in github
+
+git push origin main
+it is used to push the file to the github
